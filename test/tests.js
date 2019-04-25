@@ -1,13 +1,7 @@
+import feedCataDog from '../src/feed-catadog.js';
+
 const test = QUnit.test;
     
-function feedCataDog(mockCaterpillarDog, donutName) {
-    const span = document.createElement('span');
-    span.classList.add('part');
-    span.classList.add(donutName);
-
-    mockCaterpillarDog.appendChild(span);
-}
-
 test('put donut into caterpillar dog', function(assert) {
     //Arrange
     // Set up your parameters and expectations
