@@ -4,7 +4,7 @@ const donutButtons = document.querySelectorAll('.donut');
 
 const caterpillarDog = document.getElementById('caterpillar-dog');
 
-for (let i = 0; i < donutButtons.length; i++) {
+for(let i = 0; i < donutButtons.length; i++) {
     const donutButton = donutButtons[i];
 
     donutButton.addEventListener('click', () => {
