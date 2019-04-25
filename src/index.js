@@ -13,3 +13,7 @@ for(let i = 0; i < donutButtons.length; i++) {
     }); 
 }
 
+// dancing
+
+const danceButtons = document.querySelectorAll('.dance');
+console.log(danceButtons)
