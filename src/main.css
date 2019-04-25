@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+}
+
 button.donut {
     width: 50px;
     height: 50px;
@@ -7,4 +11,24 @@ button.donut {
 
 .donut img {
     height: 40px;
+    width: 
+}
+
+#caterpillar-dog {
+    /* line-height: 3em; */
+}
+.head {
+    padding-top: 30px; 
+    height: 150px;
+}
+
+.part {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 100%;
+    margin-left: -12px;
+    line-height: 7em;
+    margin-bottom: 35px;
 }
