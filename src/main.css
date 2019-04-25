@@ -26,9 +26,36 @@ button.donut {
     display: inline-block;
     height: 50px;
     width: 50px;
-    background-color: blue;
     border-radius: 100%;
     margin-left: -12px;
     line-height: 7em;
     margin-bottom: 35px;
+}
+
+.blue-donut {
+    background-color:blue;
+}
+
+.brown-donut {
+    background-color:brown;
+}
+
+.choc-donut {
+    background-color:rgb(83, 10, 10);
+}
+
+.green-donut {
+    background-color:green;
+}
+
+.light-pink-donut {
+    background-color:pink;
+}
+
+.pink-donut {
+    background-color:rgb(248, 24, 61);
+}
+
+.yellow-donut {
+    background-color: yellow;
 }
