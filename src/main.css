@@ -1,0 +1,10 @@
+button.donut {
+    width: 50px;
+    height: 50px;
+    background-size: 100%;
+    
+}
+
+.donut img {
+    height: 40px;
+}
