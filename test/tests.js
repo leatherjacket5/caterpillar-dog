@@ -12,6 +12,7 @@ test('put donut into caterpillar dog', function(assert) {
     //Act 
     // Call the function you're testing and set the result to a const
     feedCataDog(mockCaterpillarDog, donutName);
+    
     //Assert
     const parentInnerHTML = mockCaterpillarDog.innerHTML;
     assert.equal(parentInnerHTML, expected);
