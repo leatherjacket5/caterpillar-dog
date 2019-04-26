@@ -36,6 +36,11 @@ button.donut {
    color:blue;
 }
 
+.dancing {
+    transform: translateY(-15px);
+    transition-timing-function: ease-in-out;
+}
+
 .brown-donut {
     color:brown;
 }
