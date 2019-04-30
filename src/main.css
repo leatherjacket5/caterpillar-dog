@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+}
+
+button.donut {
+    width: 50px;
+    height: 50px;
+    background-size: 100%;
+    
+}
+
+.donut img {
+    height: 40px;
+    width: 
+}
+
+.head {
+    padding-top: 30px; 
+    height: 150px;
+}
+
+.part {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-left: -12px;
+    line-height: 7em;
+    margin-bottom: 35px;
+    border-block-end-width: 9px;
+    box-sizing: border-box;
+    border: 15px solid;
+}
+
+.blue-donut {
+   color:blue;
+}
+
+.brown-donut {
+    color:brown;
+}
+
+.choc-donut {
+    color:rgb(83, 10, 10);
+}
+
+.green-donut {
+    color:green;
+}
+
+.light-pink-donut {
+    color:pink;
+}
+
+.pink-donut {
+    color:rgb(248, 24, 61);
+}
+
+.yellow-donut {
+    color: yellow;
+}
